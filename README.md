@@ -39,7 +39,7 @@ AuthServiceAPI is a robust authentication and authorization service built with .
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/AuthServiceAPI.git
+    git clone https://github.com/Miri-Shtul/AuthServiceAPI.git
     cd AuthServiceAPI
     ```
 
